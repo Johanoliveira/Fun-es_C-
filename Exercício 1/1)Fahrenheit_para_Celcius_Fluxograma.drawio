@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
+  <diagram id="np5Zrfz5XAHCqhkaFJU2" name="Página-1">
+    <mxGraphModel dx="872" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-2" target="Y4EA6Yp2uu2oZ3VyQcpY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-2" value="Temperatura" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="145" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-1" target="Y4EA6Yp2uu2oZ3VyQcpY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-4" target="Y4EA6Yp2uu2oZ3VyQcpY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-4" value="Temperatura = Conversor_Para_Celcius(Temperatura)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="35" y="200" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-6" target="Y4EA6Yp2uu2oZ3VyQcpY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="280" />
+              <mxPoint x="190" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-6" value="&quot; A temperatura digitada em Celcius é: &quot;Temperatura&quot;°C" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-10" target="Y4EA6Yp2uu2oZ3VyQcpY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y4EA6Yp2uu2oZ3VyQcpY-11" target="Y4EA6Yp2uu2oZ3VyQcpY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-11" value="C = ((F-32)*5)/9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-13" value="return C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-15" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Conversor_Para_Celcius&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="10" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4EA6Yp2uu2oZ3VyQcpY-16" value="Entrada: float F&lt;div&gt;Saída: C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
