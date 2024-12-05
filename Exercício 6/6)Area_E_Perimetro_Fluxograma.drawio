@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
+  <diagram id="WhntTCCB68Dzsu44qlmx" name="Página-1">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-2" target="SAxD5ykMS4jTw5TeZtEg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-2" value="Lado" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="130" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-1" target="SAxD5ykMS4jTw5TeZtEg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-4" target="SAxD5ykMS4jTw5TeZtEg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-4" value="Area = Area_Quadrado(Lado)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="65" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-6" target="SAxD5ykMS4jTw5TeZtEg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-6" value="Perimetro = Perimetro_Quadrado(Lado)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="43.75" y="250" width="222.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-8" target="SAxD5ykMS4jTw5TeZtEg-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="310" />
+              <mxPoint x="155" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-8" value="&quot; A área do quadrado é: &quot;Area" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="95" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-9" target="SAxD5ykMS4jTw5TeZtEg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="450" />
+              <mxPoint x="155" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-9" value="&quot; O perímetro do quadrado é: &quot;Perimetro" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="95" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-14" value="Area_Quadrado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-15" value="Entrada: int Lado&lt;div&gt;Saída: Area&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-16" target="SAxD5ykMS4jTw5TeZtEg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAxD5ykMS4jTw5TeZtEg-17" target="SAxD5ykMS4jTw5TeZtEg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-17" value="Area = Lado * Lado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="180" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-19" value="return&lt;div&gt;Area&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-21" value="Perimetro_Quadrado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="325" y="290" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-22" value="Entrada: int Lado&lt;div&gt;Saída: Perimetro&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="SAxD5ykMS4jTw5TeZtEg-24" target="SAxD5ykMS4jTw5TeZtEg-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="SAxD5ykMS4jTw5TeZtEg-26" target="SAxD5ykMS4jTw5TeZtEg-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-26" value="Perimetro = Lado * 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="440" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-27" value="return&lt;div&gt;Perimetro&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxD5ykMS4jTw5TeZtEg-28" value="Main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
