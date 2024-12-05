@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int Entrada_Notas(int Nota[2]);
+void Entrada_Notas(int Nota[2]);
 float Media_Notas(int Nota[2]);
 char Conceito_Media(float Media);
 
@@ -26,7 +26,7 @@ int main () {
 	return 0;
 }
 
-int Entrada_Notas(int Nota[2]){
+void Entrada_Notas(int Nota[2]){
 	do{
 		cout << " Digite a primeira nota: ";
 		cin >> Nota[0];
